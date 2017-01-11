@@ -279,7 +279,7 @@ My feeble attempt to organize (in a somewhat logical fashion) the vast amount of
         - ngrep -q -W byline "GET|POST HTTP"
       - Dsniff - https://github.com/tecknicaltom/dsniff
       - Netsh Trace (Windows only) - https://isc.sans.edu/diary/19409
-    - Network Authentication Cracking Tool - https://nmap.org/ncrack/
+      - Network Authentication Cracking Tool - https://nmap.org/ncrack/
   - Attack Windows
     - Stealing/Cracking Passwords/Hashes 
       - Steal
