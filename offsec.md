@@ -289,7 +289,6 @@ My feeble attempt to organize (in a somewhat logical fashion) the vast amount of
         - pysecdump - https://github.com/pentestmonkey/pysecdump
         - Windows Creds - https://www.securusglobal.com/community/2013/12/20/dumping-windows-credentials/
         - Network Password Recovery - http://www.nirsoft.net/utils/network_password_recovery.html
-        - 
       - Crack
         - Windows Password Audit - https://blog.joelj.org/windows-password-audit-with-kali-linux/
         - pysecdump - https://blog.didierstevens.com/2016/07/30/video-ntds-dit-extract-hashes-with-secretsdump-py/
